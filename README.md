@@ -41,3 +41,10 @@ Software used:
 	2.Power BI desktop
 	
 	3.MS SQL server
+
+
+ Explore the HR data PowerBI and Excel interactive Dashboads to make informed decisions, monitoring and managing various aspects of employees in organizaion.
+
+ 
+If you find this project interesting and useful, show your support by starring ⭐ the repository and sharing it with others. Thank you for choosing our tool!
+

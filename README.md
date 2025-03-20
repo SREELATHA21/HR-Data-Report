@@ -2,6 +2,8 @@
 Data Analysis on HR Data
 
 
+Welcome to the HR Data Report, where we leverage SQL for data analysis for Attrition in an organization and Power BI and Excel for creating interactive visualizations. 
+
 HR Department is responsible for monitoring and managing various aspects of employee data to ensure the organization maintains a healthy workforce.
 
 

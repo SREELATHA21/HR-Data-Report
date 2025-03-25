@@ -28,18 +28,23 @@ a)	KPI’s requirement
 
 b)	Charts requirement
 
-	1.Attrition by Gender
+	1.Attrition by Gender:
+ The HR department faces challenges in understanding the attrition patterns based on gender,making it difficult to identify any gender-related disparities and implement retention straegies.
 
 	2.Department wise attrition
+The HR department lacks visualizations to showcase attrition rates across different departments. This hinders their ability to identify departments with higher attrition rates and address any underlying issues or concerns effectively.
 
 	3.Number of employees by age group
+The HR department requires visual representations to analyze the distribution of employees across various age groups. This helps in assessing workforce demographics, identifying any age-related gaps or imbalances, and implementing targeted HR policies or programs.
 
 	4.Job satisfaction rating
+The HR department lacks visualizations to represent job satisfaction ratings, hindering their ability to measure employee engagement and overall job satisfaction levels effectively.
 
 	5.Education field wise Attrition
+The HR department requires visual representations to analyze attrition rates based on education fields. This helps identify specific educational backgrounds that may be associated with higher attrition, enabling the organization to tailor retention strategies accordingly.
 
 	6.Attrition rate by gender for different age groups
-
+The HR department lacks visualizations that display attrition rates based on gender and different age groups.This makes it challenging to identify any age and gender-related attrition trends,preventing the organization from implementing targeted retention strategies for specific employee segment.
 
 Software used:
 
